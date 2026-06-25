@@ -1,2 +1,6 @@
 hi hello! 
+<<<<<<< HEAD
 by main 1 
+=======
+by sub1
+>>>>>>> sub1
