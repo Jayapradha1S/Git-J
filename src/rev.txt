@@ -1,3 +1,6 @@
 hello
+<<<<<<< HEAD
 this is 2nd line
 broooooooo
+=======
+>>>>>>> parent of aef7cb4 (rev test 2nd commit)
